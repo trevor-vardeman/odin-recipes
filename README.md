@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project - HTML Recipes
+This is a small HTML project showcasing some of my favorite recipes.
